@@ -4,14 +4,14 @@ import "firebase/firestore";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCD5B_kl2EyqvzVTmo1n-RXcLjpG9cNpLU",
+    apiKey: "AIzaSyCD5B_kl2EyqvzVTmo1n-RXcLjpG9cNpL",
     authDomain: "signal-app-55ee8.firebaseapp.com",
     projectId: "signal-app-55ee8",
     storageBucket: "signal-app-55ee8.appspot.com",
     messagingSenderId: "1011046109339",
     appId: "1:1011046109339:web:da1ea025a99cef251df63e"
   };
-
+//U
 let app;
 
 if (firebase.apps.length === 0) {
